@@ -1,0 +1,16 @@
+{
+  "name": "labs-1",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "version": "1.0.0",
+  "main": "app.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "http-errors": "^2.0.0"
+  }
+}
